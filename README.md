@@ -1,6 +1,6 @@
 # Charcuterie Theory
 
-## second heading
+## custum cheese boards for all occasions
 
 - [x] Write the press release
 - [ ] Update the website
